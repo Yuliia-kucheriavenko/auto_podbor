@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
 Link to page 
-https://6509b237108f1c0a2475edb1--imaginative-toffee-abad32.netlify.app/
+https://auto-podbor.com/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
